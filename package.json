@@ -40,6 +40,8 @@
   "dependencies": {
     "phaser": "^3.52.0",
     "playroomkit": "^0.0.50",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "tsyringe": "^4.4.0"
   }
 }
