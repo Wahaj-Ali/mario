@@ -39,6 +39,7 @@
   },
   "dependencies": {
     "phaser": "^3.52.0",
+    "playroomkit": "^0.0.50",
     "tsyringe": "^4.4.0"
   }
 }
